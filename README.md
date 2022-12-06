@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Arthur Douillet, I have a PhD in Computational Biology and a biological engineer degree.
+- 👋 Hi, I’m Arthur Douillet, I am a engineer and Doctor in Computational Biology.
 
-- 👀 I’m interested in a very large variety of subject, with a preference in Science, Healthcare and Education. 
+- 👀 I’m interested in a very large variety of subject around AI.
 
-- 🌱 I’m currently learning Data Science (AI, Data Wrangling and Visualization,...)
+- 🌱 I work as a Data Scientist (with a wide spectrum : from retrieving client need [...] to deploying AI solution)
 
 - 💞️ I’m looking to collaborate on project of high social and civic impacts.
 
