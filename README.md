@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arthur Douillet, I am a engineer and Doctor in Computational Biology.
+- 👋 Hi, I’m Arthur Douillet, I am an engineer and Doctor in Computational Biology.
 
 - 👀 I’m interested in a very large variety of subject around AI.
 
