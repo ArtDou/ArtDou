@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Arthur Douillet, I am an engineer and Doctor in Computational Biology.
+👋 Hi! I'm Arthur Douillet, Engineer and PhD in Computational Biology.
 
-- 👀 I’m interested in a very large variety of subject around AI.
+👀 My interests include a broad range of topics related to Artificial Intelligence and its diverse applications.
 
-- 🌱 I work as a Data Scientist (with a wide spectrum : from retrieving client need [...] to deploying AI solution)
+🌱 Professionally, I'm a Data Scientist involved in the entire AI lifecycle—from identifying client requirements and data analysis, to developing and deploying AI solutions in cloud environments.
 
-- 💞️ I’m looking to collaborate on project of high social and civic impacts.
+💞️ Collaboration: I'm passionate about contributing to projects with significant social and civic impact.
 
-- 📫 How to reach me -> douillet.arthur@gmail.com or via LinkedIn www.linkedin.com/in/arthurdouillet
+📫 Contact me:
+
+Email: douillet.arthur@gmail.com
+
+LinkedIn: linkedin.com/in/arthurdouillet
