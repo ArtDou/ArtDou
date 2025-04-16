@@ -10,4 +10,4 @@
 
 Email: douillet.arthur@gmail.com
 
-LinkedIn: linkedin.com/in/arthurdouillet
+LinkedIn: www.linkedin.com/in/arthurdouillet
