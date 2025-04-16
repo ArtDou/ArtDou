@@ -1,4 +1,4 @@
-👋 Hi! I'm Arthur Douillet, Engineer and PhD in Computational Biology.
+👋 Hi! I'm Arthur Douillet, Engineer and PhD in Computational Biology and further training in Data Science.
 
 👀 My interests include a broad range of topics related to Artificial Intelligence and its diverse applications.
 
